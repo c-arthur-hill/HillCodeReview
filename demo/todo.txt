@@ -9,5 +9,3 @@ possible extensions:
 3. find potential polymorphic expressions.
 3. method parameter type check
 4. suggest interfaces
-
-but what is more important? this or hillcalc
