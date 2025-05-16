@@ -1,0 +1,13 @@
+write front page + about
+remove github block.
+serve.
+
+
+possible extensions:
+1. find when a class should implement and interface from itself.
+2. find variable calls.
+3. find potential polymorphic expressions.
+3. method parameter type check
+4. suggest interfaces
+
+but what is more important? this or hillcalc
